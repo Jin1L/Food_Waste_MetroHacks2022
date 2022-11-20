@@ -25,6 +25,7 @@ html, body{
 .middle{
     margin-left: auto;
     margin-right: auto;
+    width: 70%;
 }
 .shadow{
     box-shadow: 0 -1.5px 1.5px 4px rgba(0,0,0,.15);
@@ -52,4 +53,10 @@ html, body{
 
 .btnF{
     width: 70%;
+    color: #005328;
+}
+
+.form-label{
+    margin-bottom: 1px;
+    margin-top: 1px;
 }
