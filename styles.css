@@ -1,0 +1,24 @@
+/*.My_Fridge_swipe{*/
+/*    margin-left: auto;*/
+/*    margin-right: auto;*/
+/*    width: 10%;*/
+/*    height: 30px;*/
+/*}*/
+
+.login{
+    height: 80%;
+}
+.middle{
+    margin-left: auto;
+    margin-right: auto;
+}
+.shadow{
+    box-shadow: 0 -1.5px 1.5px 4px rgba(0,0,0,.15);
+}
+.signup{
+    text-align: end;
+}
+.login-btn{
+    width: 15%;
+
+}
